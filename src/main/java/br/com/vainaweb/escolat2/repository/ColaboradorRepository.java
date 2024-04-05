@@ -10,6 +10,6 @@ import br.com.vainaweb.escolat2.model.ColaboradorModel;
 @Repository //Trata a interface como a camada de persistencia
 public interface ColaboradorRepository extends JpaRepository<ColaboradorModel, Long> {
 
-	Optional<ColaboradorModel> findByCpf();
+	Optional<ColaboradorModel> findByCpf(String cpf);
 
 }
