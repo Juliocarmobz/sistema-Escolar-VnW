@@ -22,7 +22,7 @@ import br.com.vainaweb.escolat2.service.ColaboradorService;
 import jakarta.validation.Valid;
 
 @RestController // classe controladora gerenciada pelo Spring
-@RequestMapping("/colaborador-teste")
+@RequestMapping("/colaborador")
 
 public class ColaboradorController {
 

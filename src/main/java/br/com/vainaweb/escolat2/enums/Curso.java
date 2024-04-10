@@ -1,0 +1,14 @@
+package br.com.vainaweb.escolat2.enums;
+
+public enum Curso {
+	
+	CIBERSEGURANCA,
+	ANALISE_DESENVOLVIMENTO_DE_SISTEMAS,
+	SISTEMAS_PARA_INTERNET,
+	ENGENHARIA_QUICA,
+	ARQUEOLOGIA,
+	PEDAGOGIA,
+	DIREITO,
+	
+		
+}
