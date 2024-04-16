@@ -39,7 +39,7 @@ Contribuições para aprimorar e expandir este projeto são bem-vindas. Sinta-se
 		"id": 1,  
 		"nome": "Leonardo Amorim",  
 		"email": "leokk55",  
-		"cpf": "1234",  
+		"cpf": "679.970.470-42",  
 		"cargo": "INSTRUTOR",  
 		"endereco": null  
 	}**
